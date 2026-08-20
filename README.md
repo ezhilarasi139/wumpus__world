@@ -225,5 +225,7 @@ print("========================================")
 ## OUTPUT:
 
 <img width="516" height="792" alt="image" src="https://github.com/user-attachments/assets/3a462e30-e91c-4209-ac7a-7fbc33173d02" />
+
+
 ## RESULT : 
 Solving Wumpus World Problem using Python demonstrating Inferences from Propositional Logic is successfully implemented.

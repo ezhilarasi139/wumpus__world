@@ -1,9 +1,8 @@
 # ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
 
-### Name:
+### Name: EZHILARASI N
 
-### Register Number/Staff Id:
-
+### Register Number : 212224040088
 ### Aim:
 
 To solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
